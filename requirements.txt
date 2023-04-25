@@ -1,0 +1,4 @@
+qiskit
+matplotlib
+numpy
+pandas
